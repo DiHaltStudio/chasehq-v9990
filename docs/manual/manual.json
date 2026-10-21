@@ -1,0 +1,111 @@
+{
+  "cover": "docs/img/cover_art.png",
+  "cover_shot": "docs/img/cover.png",
+  "title": "docs/img/title.png",
+  "montage": [
+    "docs/img/briefing.png",
+    "docs/img/stage1.png",
+    "docs/img/hud.png",
+    "docs/img/arrest.png",
+    "docs/img/stage2.png",
+    "docs/img/continue.png"
+  ],
+  "huds": [
+    {
+      "name": "hud",
+      "src": "docs/img/hud.png",
+      "box": [
+        0,
+        0,
+        256,
+        212
+      ],
+      "labels": [
+        [
+          1,
+          18,
+          28
+        ],
+        [
+          2,
+          78,
+          17
+        ],
+        [
+          3,
+          103,
+          57
+        ],
+        [
+          4,
+          126,
+          17
+        ],
+        [
+          5,
+          158,
+          17
+        ],
+        [
+          6,
+          190,
+          23
+        ],
+        [
+          7,
+          66,
+          40,
+          "b"
+        ],
+        [
+          8,
+          118,
+          40,
+          "b"
+        ],
+        [
+          9,
+          153,
+          40,
+          "b"
+        ],
+        [
+          10,
+          19,
+          123,
+          "b"
+        ],
+        [
+          11,
+          43,
+          185,
+          "b"
+        ]
+      ]
+    }
+  ],
+  "label": {
+    "lines": [
+      "MSX1 · 64 KB RAM",
+      "ASCII16 MegaROM · 1 MiB"
+    ],
+    "credit": "OCEAN 1989  ·  V9990 PORT: DIHALT STUDIO 2026",
+    "crop": [
+      0,
+      360,
+      1155,
+      1250
+    ],
+    "fit": true,
+    "accent": [
+      205,
+      70,
+      35
+    ],
+    "bg": [
+      8,
+      8,
+      20
+    ]
+  }
+}

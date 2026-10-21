@@ -1,0 +1,981 @@
+{
+"nota": "generado por tools/mksprites.py; la fuente editable es el PNG",
+"sprites": {
+"d:6560:6:30:0:0": {
+"datos": "6560",
+"espejado": 0,
+"h": 30,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 48,
+"x": 104,
+"y": 39
+},
+"d:6614:5:22:0:0": {
+"datos": "6614",
+"espejado": 0,
+"h": 22,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 0,
+"y": 101
+},
+"d:6682:3:15:0:0": {
+"datos": "6682",
+"espejado": 0,
+"h": 15,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 176,
+"y": 101
+},
+"d:66AF:3:8:1:0": {
+"datos": "66AF",
+"espejado": 0,
+"h": 8,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 24,
+"x": 152,
+"y": 123
+},
+"d:670F:6:39:0:0": {
+"datos": "670F",
+"espejado": 0,
+"h": 39,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 48,
+"x": 0,
+"y": 0
+},
+"d:67F9:5:29:0:0": {
+"datos": "67F9",
+"espejado": 0,
+"h": 29,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 72,
+"y": 71
+},
+"d:688A:3:20:0:0": {
+"datos": "688A",
+"espejado": 0,
+"h": 20,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 40,
+"y": 101
+},
+"d:68C6:2:12:1:0": {
+"datos": "68C6",
+"espejado": 0,
+"h": 12,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 48,
+"y": 123
+},
+"d:6926:6:30:0:0": {
+"datos": "6926",
+"espejado": 0,
+"h": 30,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 48,
+"x": 152,
+"y": 39
+},
+"d:69DA:4:20:0:0": {
+"datos": "69DA",
+"espejado": 0,
+"h": 20,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 64,
+"y": 101
+},
+"d:6A2A:3:13:0:0": {
+"datos": "6A2A",
+"espejado": 0,
+"h": 13,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 200,
+"y": 101
+},
+"d:6A51:2:8:1:0": {
+"datos": "6A51",
+"espejado": 0,
+"h": 8,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 176,
+"y": 123
+},
+"d:6C73:5:8:0:0": {
+"datos": "6C73",
+"espejado": 0,
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 192,
+"y": 123
+},
+"d:6C73:5:8:0:1": {
+"datos": "6C73",
+"espejado": 1,
+"espejo_de": "d:6C73:5:8:0:0",
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 0,
+"y": 136
+},
+"d:6C9B:7:8:0:0": {
+"datos": "6C9B",
+"espejado": 0,
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 56,
+"x": 40,
+"y": 136
+},
+"d:6C9B:7:8:0:1": {
+"datos": "6C9B",
+"espejado": 1,
+"espejo_de": "d:6C9B:7:8:0:0",
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 56,
+"x": 96,
+"y": 136
+},
+"d:6CD3:7:8:0:0": {
+"datos": "6CD3",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 56,
+"x": 48,
+"y": 0
+},
+"d:6D0B:8:8:0:0": {
+"datos": "6D0B",
+"espejado": 0,
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 64,
+"x": 152,
+"y": 136
+},
+"d:6D0B:8:8:0:1": {
+"datos": "6D0B",
+"espejado": 1,
+"espejo_de": "d:6D0B:8:8:0:0",
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 64,
+"x": 0,
+"y": 144
+},
+"d:6D4B:3:4:0:0": {
+"datos": "6D4B",
+"espejado": 0,
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 80,
+"y": 152
+},
+"d:6D4B:3:4:0:1": {
+"datos": "6D4B",
+"espejado": 1,
+"espejo_de": "d:6D4B:3:4:0:0",
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 104,
+"y": 152
+},
+"d:6D57:4:4:0:0": {
+"datos": "6D57",
+"espejado": 0,
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 128,
+"y": 152
+},
+"d:6D57:4:4:0:1": {
+"datos": "6D57",
+"espejado": 1,
+"espejo_de": "d:6D57:4:4:0:0",
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 160,
+"y": 152
+},
+"d:6D6C:5:6:0:0": {
+"datos": "6D6C",
+"espejado": 0,
+"h": 30,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 200,
+"y": 39
+},
+"d:6D8A:6:6:0:0": {
+"datos": "6D8A",
+"espejado": 0,
+"h": 6,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 48,
+"x": 152,
+"y": 144
+},
+"d:6D8A:6:6:0:1": {
+"datos": "6D8A",
+"espejado": 1,
+"espejo_de": "d:6D8A:6:6:0:0",
+"h": 6,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 48,
+"x": 200,
+"y": 144
+},
+"d:6DAE:2:4:0:0": {
+"datos": "6DAE",
+"espejado": 0,
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 192,
+"y": 152
+},
+"d:6DAE:2:4:0:1": {
+"datos": "6DAE",
+"espejado": 1,
+"espejo_de": "d:6DAE:2:4:0:0",
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 208,
+"y": 152
+},
+"d:6DB6:3:3:0:0": {
+"datos": "6DB6",
+"espejado": 0,
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 96,
+"y": 158
+},
+"d:6DB6:3:3:0:1": {
+"datos": "6DB6",
+"espejado": 1,
+"espejo_de": "d:6DB6:3:3:0:0",
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 120,
+"y": 158
+},
+"d:6DBF:3:4:0:0": {
+"datos": "6DBF",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 104,
+"y": 0
+},
+"d:6DCB:4:4:0:0": {
+"datos": "6DCB",
+"espejado": 0,
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 224,
+"y": 152
+},
+"d:6DCB:4:4:0:1": {
+"datos": "6DCB",
+"espejado": 1,
+"espejo_de": "d:6DCB:4:4:0:0",
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 0,
+"y": 158
+},
+"d:6DDB:1:3:0:0": {
+"datos": "6DDB",
+"espejado": 0,
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 144,
+"y": 158
+},
+"d:6DDB:1:3:0:1": {
+"datos": "6DDB",
+"espejado": 1,
+"espejo_de": "d:6DDB:1:3:0:0",
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 152,
+"y": 158
+},
+"d:6DDE:2:3:0:0": {
+"datos": "6DDE",
+"espejado": 0,
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 160,
+"y": 158
+},
+"d:6DDE:2:3:0:1": {
+"datos": "6DDE",
+"espejado": 1,
+"espejo_de": "d:6DDE:2:3:0:0",
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 176,
+"y": 158
+},
+"d:6DE4:2:3:0:0": {
+"datos": "6DE4",
+"espejado": 0,
+"h": 30,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 240,
+"y": 39
+},
+"d:6DEA:3:2:0:0": {
+"datos": "6DEA",
+"espejado": 0,
+"h": 2,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 232,
+"y": 158
+},
+"d:6DEA:3:2:0:1": {
+"datos": "6DEA",
+"espejado": 1,
+"espejo_de": "d:6DEA:3:2:0:0",
+"h": 2,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 0,
+"y": 162
+},
+"d:6DF0:7:8:0:0": {
+"datos": "6DF0",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 56,
+"x": 128,
+"y": 0
+},
+"d:6E28:5:6:0:0": {
+"datos": "6E28",
+"espejado": 0,
+"h": 30,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 0,
+"y": 71
+},
+"d:6E46:3:4:0:0": {
+"datos": "6E46",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 184,
+"y": 0
+},
+"d:6E52:2:3:0:0": {
+"datos": "6E52",
+"espejado": 0,
+"h": 30,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 40,
+"y": 71
+},
+"d:6E58:1:1:1:0": {
+"datos": "6E58",
+"espejado": 0,
+"h": 1,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 8,
+"x": 120,
+"y": 162
+},
+"d:6E58:1:1:1:1": {
+"datos": "6E58",
+"espejado": 1,
+"espejo_de": "d:6E58:1:1:1:0",
+"h": 1,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 8,
+"x": 128,
+"y": 162
+},
+"d:6E5A:2:1:1:0": {
+"datos": "6E5A",
+"espejado": 0,
+"h": 1,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 136,
+"y": 162
+},
+"d:6E5A:2:1:1:1": {
+"datos": "6E5A",
+"espejado": 1,
+"espejo_de": "d:6E5A:2:1:1:0",
+"h": 1,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 152,
+"y": 162
+},
+"d:6E5E:2:2:1:0": {
+"datos": "6E5E",
+"espejado": 0,
+"h": 32,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 208,
+"y": 0
+},
+"d:6E66:3:2:1:0": {
+"datos": "6E66",
+"espejado": 0,
+"h": 2,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 24,
+"x": 24,
+"y": 162
+},
+"d:6E66:3:2:1:1": {
+"datos": "6E66",
+"espejado": 1,
+"espejo_de": "d:6E66:3:2:1:0",
+"h": 2,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 24,
+"x": 48,
+"y": 162
+},
+"d:6F80:4:16:0:0": {
+"datos": "6F80",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 224,
+"y": 0
+},
+"d:6FC0:4:24:0:0": {
+"datos": "6FC0",
+"espejado": 0,
+"h": 24,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 112,
+"y": 71
+},
+"d:7038:4:16:0:0": {
+"datos": "7038",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 0,
+"y": 39
+},
+"d:7078:4:24:0:0": {
+"datos": "7078",
+"espejado": 0,
+"h": 24,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 144,
+"y": 71
+},
+"d:70D8:3:12:0:0": {
+"datos": "70D8",
+"espejado": 0,
+"h": 24,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 176,
+"y": 71
+},
+"d:70FC:3:18:0:0": {
+"datos": "70FC",
+"espejado": 0,
+"h": 18,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 96,
+"y": 101
+},
+"d:7147:3:12:0:0": {
+"datos": "7147",
+"espejado": 0,
+"h": 24,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 200,
+"y": 71
+},
+"d:716B:3:18:0:0": {
+"datos": "716B",
+"espejado": 0,
+"h": 18,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 120,
+"y": 101
+},
+"d:71A1:2:8:0:0": {
+"datos": "71A1",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 32,
+"y": 39
+},
+"d:71B1:2:12:0:0": {
+"datos": "71B1",
+"espejado": 0,
+"h": 12,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 64,
+"y": 123
+},
+"d:71D5:2:8:0:0": {
+"datos": "71D5",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 48,
+"y": 39
+},
+"d:71E5:2:12:0:0": {
+"datos": "71E5",
+"espejado": 0,
+"h": 12,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 80,
+"y": 123
+},
+"d:71FD:1:4:0:0": {
+"datos": "71FD",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 64,
+"y": 39
+},
+"d:7201:1:6:0:0": {
+"datos": "7201",
+"espejado": 0,
+"h": 6,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 248,
+"y": 144
+},
+"d:720E:1:4:0:0": {
+"datos": "720E",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 72,
+"y": 39
+},
+"d:7212:1:6:0:0": {
+"datos": "7212",
+"espejado": 0,
+"h": 6,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 0,
+"y": 152
+},
+"d:724A:4:17:0:0": {
+"datos": "724A",
+"espejado": 0,
+"h": 17,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 144,
+"y": 101
+},
+"d:728E:3:13:0:0": {
+"datos": "728E",
+"espejado": 0,
+"h": 13,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 224,
+"y": 101
+},
+"d:72B5:2:9:0:0": {
+"datos": "72B5",
+"espejado": 0,
+"h": 9,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 120,
+"y": 123
+},
+"d:72C7:2:7:1:0": {
+"datos": "72C7",
+"espejado": 0,
+"h": 7,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 104,
+"y": 144
+},
+"d:741C:3:4:0:0": {
+"datos": "741C",
+"espejado": 0,
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 32,
+"y": 158
+},
+"d:7428:3:13:0:0": {
+"datos": "7428",
+"espejado": 0,
+"h": 13,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 0,
+"y": 123
+},
+"d:744F:1:7:0:0": {
+"datos": "744F",
+"espejado": 0,
+"h": 7,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 120,
+"y": 144
+},
+"d:7456:2:3:0:0": {
+"datos": "7456",
+"espejado": 0,
+"h": 3,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 16,
+"x": 192,
+"y": 158
+},
+"d:745C:1:2:0:0": {
+"datos": "745C",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 80,
+"y": 39
+},
+"d:745E:1:6:0:0": {
+"datos": "745E",
+"espejado": 0,
+"h": 6,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 8,
+"y": 152
+},
+"d:7464:1:2:0:0": {
+"datos": "7464",
+"espejado": 0,
+"h": 2,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 72,
+"y": 162
+},
+"d:7466:1:2:0:0": {
+"datos": "7466",
+"espejado": 0,
+"h": 32,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 88,
+"y": 39
+},
+"d:746C:1:5:0:0": {
+"datos": "746C",
+"espejado": 0,
+"h": 5,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 56,
+"y": 152
+},
+"d:7470:1:2:0:0": {
+"datos": "7470",
+"espejado": 0,
+"h": 2,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 8,
+"x": 80,
+"y": 162
+},
+"d:7472:2:3:1:0": {
+"datos": "7472",
+"espejado": 0,
+"h": 30,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 56,
+"y": 71
+},
+"d:747E:2:9:1:0": {
+"datos": "747E",
+"espejado": 0,
+"h": 9,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 136,
+"y": 123
+},
+"d:74A2:2:2:1:0": {
+"datos": "74A2",
+"espejado": 0,
+"h": 2,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 88,
+"y": 162
+},
+"d:74AA:1:2:1:0": {
+"datos": "74AA",
+"espejado": 0,
+"h": 32,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 8,
+"x": 96,
+"y": 39
+},
+"d:74AE:1:6:1:0": {
+"datos": "74AE",
+"espejado": 0,
+"h": 6,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 8,
+"x": 16,
+"y": 152
+},
+"d:753B:5:8:0:0": {
+"datos": "753B",
+"espejado": 0,
+"h": 8,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 40,
+"x": 64,
+"y": 144
+},
+"d:7563:4:6:0:0": {
+"datos": "7563",
+"espejado": 0,
+"h": 6,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 32,
+"x": 24,
+"y": 152
+},
+"d:757B:3:4:0:0": {
+"datos": "757B",
+"espejado": 0,
+"h": 4,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 56,
+"y": 158
+},
+"d:7593:3:3:1:0": {
+"datos": "7593",
+"espejado": 0,
+"h": 3,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 24,
+"x": 208,
+"y": 158
+},
+"d:75B7:2:2:1:0": {
+"datos": "75B7",
+"espejado": 0,
+"h": 2,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 104,
+"y": 162
+},
+"d:7632:3:13:0:0": {
+"datos": "7632",
+"espejado": 0,
+"h": 13,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 24,
+"y": 123
+},
+"d:7659:3:10:0:0": {
+"datos": "7659",
+"espejado": 0,
+"h": 10,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 96,
+"y": 123
+},
+"d:7677:3:7:0:0": {
+"datos": "7677",
+"espejado": 0,
+"h": 7,
+"mascara": 0,
+"tipo": "descriptor",
+"w": 24,
+"x": 128,
+"y": 144
+},
+"d:76A1:2:5:1:0": {
+"datos": "76A1",
+"espejado": 0,
+"h": 5,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 64,
+"y": 152
+},
+"d:76C9:2:4:1:0": {
+"datos": "76C9",
+"espejado": 0,
+"h": 4,
+"mascara": 1,
+"tipo": "descriptor",
+"w": 16,
+"x": 80,
+"y": 158
+}
+},
+"y_vram": 0
+}

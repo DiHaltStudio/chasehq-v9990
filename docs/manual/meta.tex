@@ -1,0 +1,17 @@
+% Facts about the game. Edit this file; manual.tex and the lang files read it.
+\newcommand{\gameTitle}{Chase H.Q.}
+\newcommand{\originalPublisher}{Ocean}
+\newcommand{\originalYear}{1989}
+\newcommand{\portAuthor}{DiHalt Studio}
+\newcommand{\portYear}{2026}
+\newcommand{\accentRGB}{205,70,35}      % accent colour of headings (R,G,B), taken from the cover
+\newcommand{\romFile}{chasehq\_v9990.rom}
+\newcommand{\romKind}{1~MiB ASCII16 MegaROM}   % mapper and size
+\newcommand{\ramNeeded}{64~KB}
+\newcommand{\portWork}{display engine, title screen, editable graphics, sound and music, ending}  % what the port author did (EN)
+\newcommand{\portWorkES}{motor de v\'ideo, pantalla de t\'itulo, gr\'aficos editables, sonido y m\'usica, final}
+% The game is a cartridge (ROM): the manual ends with a printable cartridge label.
+% Games on disk (MSX-DOS, floppy, hard disk, SD; usually MSX2 / turbo R) have no
+% label: \cartridgefalse (new_manual.py --media disk writes it).
+\newif\ifcartridge
+\cartridgetrue

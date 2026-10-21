@@ -1,0 +1,68 @@
+GIMP Palette
+Name: Chase HQ V9990
+Columns: 16
+#
+  0   0   0	transparente / borde
+  0   0   0	tinta
+112 184  64	hierba clara
+ 80 144  48	hierba oscura
+136 136 144	asfalto
+248 248 248	blanco
+112 176 248	cielo
+104  88  80	pared del tunel
+232 208 160	beige (relleno por defecto de los sprites)
+216  40  40	rojo
+136  16  24	rojo oscuro
+248 216  40	amarillo
+240 144  32	naranja
+ 32 104  40	verde oscuro
+ 56 160  64	verde
+136 208  96	verde claro
+128  80  40	marron
+ 80  48  24	marron oscuro
+192 160 112	arena / polvo
+208 208 216	gris claro
+152 152 160	gris
+ 88  88  96	gris oscuro
+ 48  80 208	azul
+112 160 240	azul claro
+152  64 176	purpura
+ 28  30  40	fondo del menu: gris casi negro
+248 208 168	piel clara
+224 160 120	piel clara: sombra
+144  88  56	piel oscura
+120 122 134	fondo del menu: gris medio
+240 200  80	pelo rubio
+ 56  56  64	goma (ruedas del coche del jugador)
+  0   0   0	marcador: transparente
+  0   0   0	marcador: negro
+ 32 205  65	marcador: verde
+ 90 222 123	marcador: verde claro
+ 32 208 200	contorno del medidor de golpes (turquesa)
+123 115 255	marcador: azul claro
+213  82  74	marcador: rojo oscuro
+248 232 112	marcador: digitos (amarillo claro)
+255  82  82	marcador: rojo
+255 123 123	marcador: rojo claro
+213 197  82	marcador: amarillo oscuro
+230 205 131	marcador: amarillo claro
+ 32 180  57	marcador: verde oscuro
+205  90 189	marcador: magenta
+205 205 205	marcador: gris
+255 255 255	marcador: blanco
+ 88   2  10	sirena izquierda (roja), encendida: 0
+ 90  11  19	sirena izquierda (roja), encendida: 1
+114   4  11	sirena izquierda (roja), encendida: 2
+161  20  25	sirena izquierda (roja), encendida: 3
+153  42  45	sirena izquierda (roja), encendida: 4
+187  40  42	sirena izquierda (roja), encendida: 5
+208  84  63	sirena izquierda (roja), encendida: 6
+245 174 167	sirena izquierda (roja), encendida: 7
+  6  34  89	sirena derecha (azul), encendida: 0
+  6  47 110	sirena derecha (azul), encendida: 1
+ 10  56 115	sirena derecha (azul), encendida: 2
+ 20  94 151	sirena derecha (azul), encendida: 3
+ 15 121 181	sirena derecha (azul), encendida: 4
+ 43 122 177	sirena derecha (azul), encendida: 5
+ 49 162 196	sirena derecha (azul), encendida: 6
+147 242 247	sirena derecha (azul), encendida: 7

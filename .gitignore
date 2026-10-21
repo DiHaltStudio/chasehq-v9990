@@ -1,0 +1,19 @@
+# Game data supplied separately by the person building the port
+/MSX/orig/
+/MSX/work/
+/MSX/build/
+/MSX/src/*.asm
+!/MSX/src/main.asm
+/msx/
+/zx/
+/original/
+/V9990-B1BP6/build/
+/release/*.rom
+/release/*.zip
+/release/*.pdf
+**/__pycache__/
+*.pyc
+/docs/manual/*.aux
+/docs/manual/*.log
+/docs/manual/*.out
+/docs/manual/*.toc
